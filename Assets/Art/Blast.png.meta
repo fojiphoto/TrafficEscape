@@ -1,0 +1,1011 @@
+fileFormatVersion: 2
+guid: 54e4ae80c9a8b48419269380871403ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3300237305943243463
+    second: Blast_0
+  - first:
+      213: 7680628674951567668
+    second: Blast_1
+  - first:
+      213: -4607981382771946950
+    second: Blast_2
+  - first:
+      213: 1006507713634131939
+    second: Blast_3
+  - first:
+      213: -6833250250524917999
+    second: Blast_4
+  - first:
+      213: -6162829855782022901
+    second: Blast_5
+  - first:
+      213: -2962572526255851032
+    second: Blast_6
+  - first:
+      213: -6094023364190995077
+    second: Blast_7
+  - first:
+      213: 2008015441310898910
+    second: Blast_8
+  - first:
+      213: 7853935589227056791
+    second: Blast_9
+  - first:
+      213: 1066541628959501297
+    second: Blast_10
+  - first:
+      213: 4046996027823921147
+    second: Blast_11
+  - first:
+      213: 692022716786576515
+    second: Blast_12
+  - first:
+      213: 5131634033764214289
+    second: Blast_13
+  - first:
+      213: 7940760167391482898
+    second: Blast_14
+  - first:
+      213: 8542514199573420512
+    second: Blast_15
+  - first:
+      213: -1006503941027515087
+    second: Blast_16
+  - first:
+      213: -4792657919122639323
+    second: Blast_17
+  - first:
+      213: -9164441234256027320
+    second: Blast_18
+  - first:
+      213: -8334750540059715789
+    second: Blast_19
+  - first:
+      213: -5736820562105854630
+    second: Blast_20
+  - first:
+      213: -8097386202196652837
+    second: Blast_21
+  - first:
+      213: -8461690729046926779
+    second: Blast_22
+  - first:
+      213: 2975094597273727020
+    second: Blast_23
+  - first:
+      213: -7601616997007338401
+    second: Blast_24
+  - first:
+      213: -6166972087690890657
+    second: Blast_25
+  - first:
+      213: -1006597560754185163
+    second: Blast_26
+  - first:
+      213: -6429116543430572534
+    second: Blast_27
+  - first:
+      213: -5963771629684663854
+    second: Blast_28
+  - first:
+      213: -7966891024785787645
+    second: Blast_29
+  - first:
+      213: 1981522080527436661
+    second: Blast_30
+  - first:
+      213: -5887799449207477662
+    second: Blast_31
+  - first:
+      213: -8589388197832687795
+    second: Blast_32
+  - first:
+      213: 626372031323730919
+    second: Blast_33
+  - first:
+      213: -2039017021856861989
+    second: Blast_34
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 72
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 478
+        width: 92
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935c2c8d7a33332d0800000000000000
+      internalID: -3300237305943243463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 570
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439da2e0613179a60800000000000000
+      internalID: 7680628674951567668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 488
+        width: 64
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ac344b8592d00c0800000000000000
+      internalID: -4607981382771946950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 552
+        width: 46
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5adece65d7fd00800000000000000
+      internalID: 1006507713634131939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 150
+        width: 195
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ffc1ce91b6b21a0800000000000000
+      internalID: -6833250250524917999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_5
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 580
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01d0f2f5ea397aa0800000000000000
+      internalID: -6162829855782022901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_6
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 539
+        width: 92
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e93037dbf3d2e6d0800000000000000
+      internalID: -2962572526255851032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 162
+        width: 276
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7df67ca90ead6ba0800000000000000
+      internalID: -6094023364190995077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_8
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 478
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad5daa767eddb10800000000000000
+      internalID: 2008015441310898910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 486
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e4da47ec8cefc60800000000000000
+      internalID: 7853935589227056791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 177
+        width: 111
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2c44f5fd1dce00800000000000000
+      internalID: 1066541628959501297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_11
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 463
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf79cd50271d92830800000000000000
+      internalID: 4046996027823921147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 409
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c80929efe8a9900800000000000000
+      internalID: 692022716786576515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 425
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11622d317f9373740800000000000000
+      internalID: 5131634033764214289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_14
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 232
+        width: 177
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d0ffdc4f333e60800000000000000
+      internalID: 7940760167391482898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 51
+        width: 94
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9dd42876b1d8670800000000000000
+      internalID: 8542514199573420512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_16
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 373
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13536029ffd2802f0800000000000000
+      internalID: -1006503941027515087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 282
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5267bb0e30f0d7db0800000000000000
+      internalID: -4792657919122639323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 298
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8412a33b04d51d080800000000000000
+      internalID: -9164441234256027320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_19
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 247
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337de301b84055c80800000000000000
+      internalID: -8334750540059715789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_20
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 139
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55168ff718b260b0800000000000000
+      internalID: -5736820562105854630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 317
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc4be0a62e40af80800000000000000
+      internalID: -8097386202196652837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 190
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a11f72d19029a80800000000000000
+      internalID: -8461690729046926779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_23
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 86
+        width: 263
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203fa306c8a94920800000000000000
+      internalID: 2975094597273727020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_24
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 168
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f545ec6cd91a18690800000000000000
+      internalID: -7601616997007338401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 95
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f527f6d6f838a6aa0800000000000000
+      internalID: -6166972087690890657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 95
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cd8770ad8d702f0800000000000000
+      internalID: -1006597560754185163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_27
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 64
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06cb31119037c6a0800000000000000
+      internalID: -6429116543430572534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 54
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9d71bdc4d6c3da0800000000000000
+      internalID: -5963771629684663854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_29
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 48
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3053567c2daef6190800000000000000
+      internalID: -7966891024785787645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_30
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 48
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b4e6c65d7cf7b10800000000000000
+      internalID: 1981522080527436661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_31
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 64
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a6f3988955a4ea0800000000000000
+      internalID: -5887799449207477662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 16
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fff3e41fc5cc880800000000000000
+      internalID: -8589388197832687795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_33
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e37a483b0251b800800000000000000
+      internalID: 626372031323730919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blast_34
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 23
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd03f3162d4f3b3e0800000000000000
+      internalID: -2039017021856861989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Blast_0: -3300237305943243463
+      Blast_1: 7680628674951567668
+      Blast_10: 1066541628959501297
+      Blast_11: 4046996027823921147
+      Blast_12: 692022716786576515
+      Blast_13: 5131634033764214289
+      Blast_14: 7940760167391482898
+      Blast_15: 8542514199573420512
+      Blast_16: -1006503941027515087
+      Blast_17: -4792657919122639323
+      Blast_18: -9164441234256027320
+      Blast_19: -8334750540059715789
+      Blast_2: -4607981382771946950
+      Blast_20: -5736820562105854630
+      Blast_21: -8097386202196652837
+      Blast_22: -8461690729046926779
+      Blast_23: 2975094597273727020
+      Blast_24: -7601616997007338401
+      Blast_25: -6166972087690890657
+      Blast_26: -1006597560754185163
+      Blast_27: -6429116543430572534
+      Blast_28: -5963771629684663854
+      Blast_29: -7966891024785787645
+      Blast_3: 1006507713634131939
+      Blast_30: 1981522080527436661
+      Blast_31: -5887799449207477662
+      Blast_32: -8589388197832687795
+      Blast_33: 626372031323730919
+      Blast_34: -2039017021856861989
+      Blast_4: -6833250250524917999
+      Blast_5: -6162829855782022901
+      Blast_6: -2962572526255851032
+      Blast_7: -6094023364190995077
+      Blast_8: 2008015441310898910
+      Blast_9: 7853935589227056791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
