@@ -34,7 +34,7 @@ public class GameController : MonoBehaviour
         SceneManager.LoadScene("Start Menu");
     }
 
-    void Next()
+    public void Next()
     {
         GameManager.instance.LoadNextLevel();
     }

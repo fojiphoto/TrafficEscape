@@ -13,11 +13,14 @@ public class GameManager : MonoBehaviour
     {
         instance = this;
         DontDestroyOnLoad(gameObject);
+        
+   
     }
 
     public void LoadNextLevel()
     {
         currentLevel++;
+       
         SceneManager.LoadScene("Level " + currentLevel);
     }
 
