@@ -57,7 +57,7 @@ public class GameController : MonoBehaviour
 
     void LoadWinScene()
     {
-        AdsManager.instance?.ShowInterstitialWithoutConditions();
+        AdsManager.instance?.ShowInterstitialWithoutConditions("");
         ighome.gameObject.SetActive(false);
         winPanel.SetActive(true);
         PlayerPrefs.SetInt("Currentlevel", SceneManager.GetActiveScene().buildIndex);

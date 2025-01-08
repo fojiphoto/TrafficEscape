@@ -58,4 +58,9 @@ public class GameManager : MonoBehaviour
         coin = PlayerPrefs.GetInt("coins", 0);
         cointext.text = coin.ToString();
     }
+
+    public void pRIVACYpANEL()
+    {
+        Application.OpenURL("https://cbgprivacypolicy.blogspot.com/2023/02/privacy-policy.html");
+    }
 }
