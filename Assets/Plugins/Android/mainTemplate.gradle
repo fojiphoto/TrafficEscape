@@ -16,9 +16,6 @@
         maven {
             url "https://dl-maven-android.mintegral.com/repository/mbridge_android_sdk_oversea" // Assets/MaxSdk/Mediation/Mintegral/Editor/Dependencies.xml:8
         }
-        maven 	{
-       url "https://maven-android.solar-engine.com/repository/se_sdk_for_android/"
- 	}
         mavenLocal()
         mavenCentral()
     }
